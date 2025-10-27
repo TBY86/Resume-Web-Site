@@ -1,2 +1,2 @@
-# Resume-Web-Site
-Tom's Professional Web-Site, replete with projects, mission and skills
+# Resume-Web-Site Template
+Tom's Professional Web-Site Template
